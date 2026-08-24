@@ -12,15 +12,14 @@
 ```javascript
 const developer = {
   pronouns: "he/him", // Update this as needed
-  location: "City, Country",
+  location: "Delhi, India",
   education: {
-    school: "Your University",
-    degree: "Your Degree",
-    field: "Your Field of Study"
+    school: "ABES Engineering College, AKTU",
+    degree: "Bachelor of Technology",
+    field: "Computer Science and Engineering"
   },
   experience: [
     "Full Stack Developer",
-    "Open Source Contributor",
     "Tech Content Creator",
     "Problem Solver"
   ],
@@ -49,7 +48,7 @@ const developer = {
 - **Frameworks & Libraries:** 
 - **Tools & Platforms:** 
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 <div align="center">
 
 **Project Name 1**
@@ -61,9 +60,9 @@ const developer = {
 **Project Name 3**
 <br>Open-source contribution making an impact
 
-</div>
+</div> -->
 
-## 📈 Contribution Activity
+<!-- ## 📈 Contribution Activity
 
 ### 🏆 Achievements & Trophies
 
@@ -72,7 +71,7 @@ const developer = {
 - 🌟 **Project A** - Contributed feature X with 50+ stars
 - 🎯 **Project B** - Fixed critical bug, merged to main
 - 📚 **Project C** - Documentation and examples
-- 🔧 **Multiple Projects** - Active open source contributor
+- 🔧 **Multiple Projects** - Active open source contributor -->
 
 **GitHub Stats**
 - **Total Contributions:** 1000+
@@ -87,12 +86,12 @@ const developer = {
 - 🤝 Contributing to open source projects
 - 💬 Helping community members with code reviews
 
-## 📚 Latest Blog Posts & Resources
+<!-- ## 📚 Latest Blog Posts & Resources
 <!-- BLOG-POST-LIST:START -->
 - [Understanding React Hooks](https://yourblog.com/react-hooks)
 - [Web Performance Optimization Tips](https://yourblog.com/performance)
 - [REST vs GraphQL APIs](https://yourblog.com/rest-graphql)
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:END -->
 
 ## 🤝 Connect & Collaborate
 <div align="center">
