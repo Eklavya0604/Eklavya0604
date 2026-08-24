@@ -86,12 +86,6 @@ const developer = {
 - 🤝 Contributing to open source projects
 - 💬 Helping community members with code reviews
 
-<!-- ## 📚 Latest Blog Posts & Resources
-<!-- BLOG-POST-LIST:START -->
-- [Understanding React Hooks](https://yourblog.com/react-hooks)
-- [Web Performance Optimization Tips](https://yourblog.com/performance)
-- [REST vs GraphQL APIs](https://yourblog.com/rest-graphql)
-BLOG-POST-LIST:END -->
 
 ## 🤝 Connect & Collaborate
 <div align="center">
@@ -111,5 +105,5 @@ BLOG-POST-LIST:END -->
 <div align="center">
   Made with ❤️ by [Eklavya0604](https://github.com/Eklavya0604)
   <br>
-  Last Updated: 2024 | Feel free to fork and customize this README!
+
 </div>
