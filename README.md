@@ -89,7 +89,15 @@ const developer = {
 
 ## 🤝 Connect & Collaborate
 <div align="center">
-  <!-- Add your social links/badges here -->
+  <a href="https://www.linkedin.com/in/aditya-vaish-482a11281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Aditya_Vaish_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.instagram.com/aditya_k.__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
 ## 💭 Random Dev Quote
