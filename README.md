@@ -1,10 +1,11 @@
-<div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-    <img alt="Aditya's GitHub profile" src="dark_mode.svg" />
-  </picture>
+<div align="left">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Aditya's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 </div>
 
@@ -45,7 +46,7 @@ const developer = {
     "AI Applications"
   ]
 };
-```
+````
 
 ---
 
@@ -53,184 +54,218 @@ const developer = {
 
 ## 💻 Programming Languages
 
-<table align="left" border="0">
-<tr>
+<p align="left">
 
-<td align="left" style="border: none;">
+<a>
 <img src="https://skillicons.dev/icons?i=java" width="40" /><br />
 <b>Java</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=js" width="40" /><br />
 <b>JavaScript</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=ts" width="40" /><br />
 <b>TypeScript</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=python" width="40" /><br />
 <b>Python</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=cpp" width="40" /><br />
 <b>C++</b>
-</td>
+</a>
 
-</tr>
-</table>
+</p>
 
 ## 🎨 Frontend Development
 
-<table align="left" border="0">
-<tr>
+<p align="left">
 
-<td align="left" style="border: none;">
+<a>
 <img src="https://skillicons.dev/icons?i=html" width="40" /><br />
 <b>HTML5</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=css" width="40" /><br />
 <b>CSS3</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=js" width="40" /><br />
 <b>JavaScript</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=ts" width="40" /><br />
 <b>TypeScript</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=react" width="40" /><br />
 <b>React</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br />
 <b>Next.js</b>
-</td>
+</a>
 
-</tr>
+</p>
 
-<tr>
+<br />
 
-<td align="left" style="border: none;">
+<p align="left">
+
+<a>
 <img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br />
 <b>Tailwind CSS</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=threejs" width="40" /><br />
 <b>Three.js</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://cdn.simpleicons.org/webgl" width="40" /><br />
 <b>WebGL</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://cdn.simpleicons.org/greensock" width="40" /><br />
 <b>GSAP</b>
-</td>
+</a>
 
-</tr>
-</table>
+</p>
 
 ## ⚙️ Backend Development
 
-<table align="left" border="0">
-<tr>
+<p align="left">
 
-<td align="left" style="border: none;">
+<a>
 <img src="https://skillicons.dev/icons?i=java" width="40" /><br />
 <b>Java</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=spring" width="40" /><br />
 <b>Spring Boot</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br />
 <b>Node.js</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=express" width="40" /><br />
 <b>Express.js</b>
-</td>
+</a>
 
-</tr>
-</table>
+</p>
 
 ## 🗄️ Databases & Caching
 
-<table align="left" border="0">
-<tr>
+<p align="left">
 
-<td align="left" style="border: none;">
+<a>
 <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br />
 <b>MySQL</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=postgres" width="40" /><br />
 <b>PostgreSQL</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br />
 <b>MongoDB</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=redis" width="40" /><br />
 <b>Redis</b>
-</td>
+</a>
 
-</tr>
-</table>
+</p>
 
 ## 🤖 AI & LLM Engineering
 
-<table align="left" border="0">
-<tr>
+<p align="left">
 
-<td align="left" style="border: none;">
+<a>
 <img src="https://skillicons.dev/icons?i=python" width="40" /><br />
 <b>Python</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://cdn.simpleicons.org/langchain" width="40" /><br />
 <b>LangChain</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://cdn.simpleicons.org/langgraph" width="40" /><br />
 <b>LangGraph</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" /><br />
 <b>OpenAI API</b>
-</td>
+</a>
 
-</tr>
-</table>
+</p>
 
-### Areas of Interest
+### 🧠 Areas of Interest
 
 * 🧠 Large Language Models (LLMs)
 * 🔎 Retrieval-Augmented Generation (RAG)
@@ -242,36 +277,42 @@ const developer = {
 
 ## 🔧 Tools & Technologies
 
-<table align="left" border="0">
-<tr>
+<p align="left">
 
-<td align="left" style="border: none;">
+<a>
 <img src="https://skillicons.dev/icons?i=git" width="40" /><br />
 <b>Git</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=github" width="40" /><br />
 <b>GitHub</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br />
 <b>VS Code</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=postman" width="40" /><br />
 <b>Postman</b>
-</td>
+</a>
 
-<td align="left" style="border: none;">
+    
+
+<a>
 <img src="https://skillicons.dev/icons?i=maven" width="40" /><br />
 <b>Maven</b>
-</td>
+</a>
 
-</tr>
-</table>
+</p>
 
 ## ☁️ Exploring & Learning
 
@@ -312,7 +353,7 @@ Exploring application security and tools that can help developers identify poten
 
 I actively practice **Data Structures and Algorithms** and focus on improving my problem-solving and algorithmic thinking.
 
-<p align="center">
+<p align="left">
 
 <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
   <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
@@ -324,9 +365,7 @@ I actively practice **Data Structures and Algorithms** and focus on improving my
 
 </p>
 
-<p align="center">
-  <i>Learning patterns, solving problems, and improving one challenge at a time.</i> 🚀
-</p>
+<i>Learning patterns, solving problems, and improving one challenge at a time.</i> 🚀
 
 ---
 
@@ -370,7 +409,7 @@ Full-Stack Development
 
 # 🤝 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/aditya-vaish-482a11281/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -388,6 +427,4 @@ Full-Stack Development
 
 ---
 
-<p align="center">
-  <i>Always learning, building, and improving.</i> 🚀
-</p>
+<i>Always learning, building, and improving.</i> 🚀
