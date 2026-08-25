@@ -10,7 +10,7 @@
 
 # 🚀 Hey, I'm Aditya
 
-I'm a Computer Science and Engineering student interested in building practical, scalable applications and exploring how modern software systems work.
+I'm a Computer Science and Engineering student and aspiring software developer interested in building practical, scalable applications and exploring how modern software systems work.
 
 My primary interests include **Full-Stack Development, Backend Engineering, System Design, AI Engineering, and Software Security**. I enjoy learning by building projects and solving real-world problems.
 
@@ -53,285 +53,225 @@ const developer = {
 
 ## 💻 Programming Languages
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java" /><br />
-  <b>Java</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="55" /><br />
+<b>Java</b>
+</td>
 
-   
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="55" /><br />
+<b>JavaScript</b>
+</td>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript" /><br />
-  <b>JavaScript</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="55" /><br />
+<b>TypeScript</b>
+</td>
 
-   
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="55" /><br />
+<b>Python</b>
+</td>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript" /><br />
-  <b>TypeScript</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="55" /><br />
+<b>C++</b>
+</td>
 
-   
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python" /><br />
-  <b>Python</b>
-</a>
-
-   
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=cpp" width="55" alt="C++" /><br />
-  <b>C++</b>
-</a>
-
-</p>
+</tr>
+</table>
 
 ## 🎨 Frontend Development
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML5" /><br />
-  <b>HTML5</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="55" /><br />
+<b>HTML5</b>
+</td>
 
-   
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="55" /><br />
+<b>CSS3</b>
+</td>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS3" /><br />
-  <b>CSS3</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="55" /><br />
+<b>JavaScript</b>
+</td>
 
-   
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="55" /><br />
+<b>TypeScript</b>
+</td>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=js" width="55" alt="JavaScript" /><br />
-  <b>JavaScript</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="55" /><br />
+<b>React</b>
+</td>
 
-   
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="55" /><br />
+<b>Next.js</b>
+</td>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=ts" width="55" alt="TypeScript" /><br />
-  <b>TypeScript</b>
-</a>
+</tr>
 
-   
+<tr>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=react" width="55" alt="React" /><br />
-  <b>React</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br />
+<b>Tailwind CSS</b>
+</td>
 
-   
+<td align="center">
+<img src="https://skillicons.dev/icons?i=threejs" width="55" /><br />
+<b>Three.js</b>
+</td>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="55" alt="Next.js" /><br />
-  <b>Next.js</b>
-</a>
+<td align="center">
+<img src="https://cdn.simpleicons.org/webgl" width="55" /><br />
+<b>WebGL</b>
+</td>
 
-</p>
+<td align="center">
+<img src="https://cdn.simpleicons.org/greensock" width="55" /><br />
+<b>GSAP</b>
+</td>
 
-<br />
-
-<p align="center">
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="55" alt="Tailwind CSS" /><br />
-  <b>Tailwind</b>
-</a>
-
-   
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=threejs" width="55" alt="Three.js" /><br />
-  <b>Three.js</b>
-</a>
-
-   
-
-<a href="#">
-  <img src="https://cdn.simpleicons.org/webgl" width="55" alt="WebGL" /><br />
-  <b>WebGL</b>
-</a>
-
-   
-
-<a href="#">
-  <img src="https://cdn.simpleicons.org/greensock" width="55" alt="GSAP" /><br />
-  <b>GSAP</b>
-</a>
-
-</p>
+</tr>
+</table>
 
 ## ⚙️ Backend Development
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=java" width="55" alt="Java" /><br />
-  <b>Java</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="55" /><br />
+<b>Java</b>
+</td>
 
-   
+<td align="center">
+<img src="https://skillicons.dev/icons?i=spring" width="55" /><br />
+<b>Spring Boot</b>
+</td>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=spring" width="55" alt="Spring Boot" /><br />
-  <b>Spring Boot</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" /><br />
+<b>Node.js</b>
+</td>
 
-   
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="55" /><br />
+<b>Express.js</b>
+</td>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js" /><br />
-  <b>Node.js</b>
-</a>
-
-   
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=express" width="55" alt="Express.js" /><br />
-  <b>Express.js</b>
-</a>
-
-</p>
-
-### 🔗 Backend Technologies
-
-<p align="center">
-  <b>Spring Data JPA</b>
-  &nbsp;•&nbsp;
-  <b>Hibernate</b>
-  &nbsp;•&nbsp;
-  <b>JDBC</b>
-  &nbsp;•&nbsp;
-  <b>REST APIs</b>
-  &nbsp;•&nbsp;
-  <b>Maven</b>
-</p>
+</tr>
+</table>
 
 ## 🗄️ Databases & Caching
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL" /><br />
-  <b>MySQL</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" /><br />
+<b>MySQL</b>
+</td>
 
-   
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="55" /><br />
+<b>PostgreSQL</b>
+</td>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=postgres" width="55" alt="PostgreSQL" /><br />
-  <b>PostgreSQL</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br />
+<b>MongoDB</b>
+</td>
 
-   
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis" width="55" /><br />
+<b>Redis</b>
+</td>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="55" alt="MongoDB" /><br />
-  <b>MongoDB</b>
-</a>
-
-   
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=redis" width="55" alt="Redis" /><br />
-  <b>Redis</b>
-</a>
-
-</p>
+</tr>
+</table>
 
 ## 🤖 AI & LLM Engineering
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python" /><br />
-  <b>Python</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="55" /><br />
+<b>Python</b>
+</td>
 
-   
+<td align="center">
+<img src="https://cdn.simpleicons.org/langchain" width="55" /><br />
+<b>LangChain</b>
+</td>
 
-<a href="#">
-  <img src="https://cdn.simpleicons.org/langchain" width="55" alt="LangChain" /><br />
-  <b>LangChain</b>
-</a>
+<td align="center">
+<img src="https://cdn.simpleicons.org/langgraph" width="55" /><br />
+<b>LangGraph</b>
+</td>
 
-   
+<td align="center">
+<img src="https://cdn.simpleicons.org/openai" width="55" /><br />
+<b>OpenAI API</b>
+</td>
 
-<a href="#">
-  <img src="https://cdn.simpleicons.org/langgraph" width="55" alt="LangGraph" /><br />
-  <b>LangGraph</b>
-</a>
+</tr>
+</table>
 
-   
+### Areas of Interest
 
-<a href="#">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="55" alt="OpenAI" /><br />
-  <b>OpenAI</b>
-</a>
-
-</p>
-
-### 🧠 AI Areas of Interest
-
-<p align="center">
-  <b>LLMs</b>
-  &nbsp;•&nbsp;
-  <b>RAG</b>
-  &nbsp;•&nbsp;
-  <b>AI Agents</b>
-  &nbsp;•&nbsp;
-  <b>Vector Databases</b>
-  &nbsp;•&nbsp;
-  <b>Prompt Engineering</b>
-  &nbsp;•&nbsp;
-  <b>AI Applications</b>
-</p>
+* 🧠 Large Language Models (LLMs)
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🔗 LangChain
+* 🕸️ LangGraph
+* 🤖 AI Agents
+* 📚 Vector Databases
+* ⚡ AI-powered Applications
 
 ## 🔧 Tools & Technologies
 
-<p align="center">
+<table align="center">
+<tr>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=git" width="55" alt="Git" /><br />
-  <b>Git</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55" /><br />
+<b>Git</b>
+</td>
 
-   
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55" /><br />
+<b>GitHub</b>
+</td>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub" /><br />
-  <b>GitHub</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" /><br />
+<b>VS Code</b>
+</td>
 
-   
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="55" /><br />
+<b>Postman</b>
+</td>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code" /><br />
-  <b>VS Code</b>
-</a>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=maven" width="55" /><br />
+<b>Maven</b>
+</td>
 
-   
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=postman" width="55" alt="Postman" /><br />
-  <b>Postman</b>
-</a>
-
-   
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=maven" width="55" alt="Maven" /><br />
-  <b>Maven</b>
-</a>
-
-</p>
+</tr>
+</table>
 
 ## ☁️ Exploring & Learning
 
@@ -364,7 +304,7 @@ Exploring **RAG pipelines, LLM applications, LangChain, LangGraph, AI agents, an
 
 ### 🔐 Software Security
 
-Exploring application security and tools that can help developers identify potential security issues in code and applications.
+Exploring application security and tools that can help developers identify potential security issues in their code.
 
 ---
 
