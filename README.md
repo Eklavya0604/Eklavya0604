@@ -205,6 +205,68 @@ Full-Stack Development
 ```
 
 ---
+## 🧠 Problem Solving & LeetCode
+
+I actively practice **Data Structures and Algorithms** and focus on improving my problem-solving and algorithmic thinking.
+
+<p align="left">
+
+  <a href="https://leetcode.com/u/Eklavya_0604/">
+    <img
+      src="https://leetcard.jacoblin.cool/Eklavya_0604?theme=dark&font=JetBrains_Mono&border=0&radius=10"
+      alt="LeetCode Stats"
+    />
+  </a>
+
+</p>
+
+### 📈 Recent Activity
+
+<p align="left">
+
+  <a href="https://leetcode.com/u/Eklavya_0604/">
+    <img
+      src="https://leetcard.jacoblin.cool/Eklavya_0604?theme=dark&font=JetBrains_Mono&border=0&radius=10&ext=activity"
+      alt="LeetCode Activity"
+    />
+  </a>
+
+</p>
+
+### 🔥 Submission Heatmap
+
+<p align="left">
+
+  <a href="https://leetcode.com/u/Eklavya_0604/">
+    <img
+      src="https://leetcard.jacoblin.cool/Eklavya_0604?theme=dark&font=JetBrains_Mono&border=0&radius=10&ext=heatmap"
+      alt="LeetCode Heatmap"
+    />
+  </a>
+
+</p>
+
+<p align="left">
+  <a href="https://leetcode.com/u/Eklavya_0604/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Eklavya_0604-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="LeetCode Profile"
+    />
+  </a>
+
+  <img
+    src="https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-007ACC?style=for-the-badge"
+    alt="DSA"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Goal-Consistency-success?style=for-the-badge"
+    alt="Consistency"
+  />
+
+</p>
+
+<i>Learning patterns, solving problems, and improving one challenge at a time.</i> 🚀
 
 # 🤝 Connect With Me
 
