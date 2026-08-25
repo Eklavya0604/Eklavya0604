@@ -57,27 +57,27 @@ const developer = {
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=java" width="40" /><br />
 <b>Java</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=js" width="40" /><br />
 <b>JavaScript</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=ts" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=ts" width="40" /><br />
 <b>TypeScript</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=python" width="40" /><br />
 <b>Python</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=cpp" width="40" /><br />
 <b>C++</b>
 </td>
 
@@ -90,32 +90,32 @@ const developer = {
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=html" width="40" /><br />
 <b>HTML5</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=css" width="40" /><br />
 <b>CSS3</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=js" width="40" /><br />
 <b>JavaScript</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=ts" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=ts" width="40" /><br />
 <b>TypeScript</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=react" width="40" /><br />
 <b>React</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nextjs" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br />
 <b>Next.js</b>
 </td>
 
@@ -124,22 +124,22 @@ const developer = {
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br />
 <b>Tailwind CSS</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=threejs" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=threejs" width="40" /><br />
 <b>Three.js</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/webgl" width="55" /><br />
+<img src="https://cdn.simpleicons.org/webgl" width="40" /><br />
 <b>WebGL</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/greensock" width="55" /><br />
+<img src="https://cdn.simpleicons.org/greensock" width="40" /><br />
 <b>GSAP</b>
 </td>
 
@@ -152,22 +152,22 @@ const developer = {
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=java" width="40" /><br />
 <b>Java</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=spring" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=spring" width="40" /><br />
 <b>Spring Boot</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br />
 <b>Node.js</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=express" width="40" /><br />
 <b>Express.js</b>
 </td>
 
@@ -180,22 +180,22 @@ const developer = {
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=mysql" width="40" /><br />
 <b>MySQL</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=postgres" width="40" /><br />
 <b>PostgreSQL</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br />
 <b>MongoDB</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=redis" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=redis" width="40" /><br />
 <b>Redis</b>
 </td>
 
@@ -208,22 +208,22 @@ const developer = {
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=python" width="40" /><br />
 <b>Python</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/langchain" width="55" /><br />
+<img src="https://cdn.simpleicons.org/langchain" width="40" /><br />
 <b>LangChain</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/langgraph" width="55" /><br />
+<img src="https://cdn.simpleicons.org/langgraph" width="40" /><br />
 <b>LangGraph</b>
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/openai" width="55" /><br />
+<img src="https://cdn.simpleicons.org/openai" width="40" /><br />
 <b>OpenAI API</b>
 </td>
 
@@ -246,27 +246,27 @@ const developer = {
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=git" width="40" /><br />
 <b>Git</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=github" width="40" /><br />
 <b>GitHub</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=vscode" width="40" /><br />
 <b>VS Code</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=postman" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=postman" width="40" /><br />
 <b>Postman</b>
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=maven" width="55" /><br />
+<img src="https://skillicons.dev/icons?i=maven" width="40" /><br />
 <b>Maven</b>
 </td>
 
