@@ -223,7 +223,7 @@ const developer = {
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/openai" width="40" /><br />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" /><br />
 <b>OpenAI API</b>
 </td>
 
