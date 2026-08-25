@@ -5,113 +5,184 @@
     <img alt="Eklavya0604's GitHub profile" src="dark_mode.svg" />
   </picture>
 </div>
+# 🚀 Hey, I'm Aditya
 
-# 🚀 Welcome to My GitHub Profile
+I'm a Computer Science and Engineering student and aspiring software developer interested in building practical, scalable applications and exploring how modern software systems work.
 
-## 💫 About Me
+My primary interests include **Full-Stack Development, Backend Engineering, System Design, and Software Security**. I enjoy learning by building projects and solving real-world problems.
+
+## 👨‍💻 About Me
+
 ```javascript
 const developer = {
-  pronouns: "he/him", // Update this as needed
+  name: "Aditya",
   location: "Delhi, India",
-  education: {
-    school: "ABES Engineering College, AKTU",
-    degree: "Bachelor of Technology",
-    field: "Computer Science and Engineering"
-  },
-  experience: [
-    "Full Stack Developer",
-    "Tech Content Creator",
-    "Problem Solver"
+
+  interests: [
+    "Full-Stack Development",
+    "Backend Engineering",
+    "System Design",
+    "Software Security"
   ],
+
   currentlyLearning: [
     "Advanced System Design",
-    "Machine Learning",
-    "Cloud Architecture"
+    "Cloud Technologies",
+    "Machine Learning"
   ],
+
   askMeAbout: [
-    "Web Development",
-    "JavaScript/TypeScript",
-    "React & Node.js",
-    "Open Source"
-  ],
-  funFact: "I love debugging as much as I love writing code 🐛➡️✨"
+    "Java",
+    "Spring Boot",
+    "React",
+    "JavaScript",
+    "Databases",
+    "Backend Development"
+  ]
 };
 ```
 
-## 📊 GitHub Statistics
-<div align="center">
-  <!-- You can add GitHub stats cards here -->
-</div>
+---
 
-## 🛠️ Tech Arsenal
-- **Languages:** 
-- **Frameworks & Libraries:** 
-- **Tools & Platforms:** 
+# 🛠️ Tech Stack
 
-<!-- ## 🚀 Featured Projects
-<div align="center">
+## 💻 Programming Languages
 
-**Project Name 1**
-<br>Building the future with modern web technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp" />
+</p>
 
-**Project Name 2**
-<br>Full-stack application showcasing modern development practices
+* **Java** — Backend development and object-oriented programming
+* **JavaScript** — Web application development
+* **TypeScript** — Building scalable and type-safe applications
+* **Python** — Scripting, automation, and problem solving
+* **C++** — Data structures and algorithms
 
-**Project Name 3**
-<br>Open-source contribution making an impact
+## 🎨 Frontend Development
 
-</div> -->
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-<!-- ## 📈 Contribution Activity
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
 
-### 🏆 Achievements & Trophies
+## ⚙️ Backend Development
 
-### 💡 Open Source Contributions
-**Notable Contributions**
-- 🌟 **Project A** - Contributed feature X with 50+ stars
-- 🎯 **Project B** - Fixed critical bug, merged to main
-- 📚 **Project C** - Documentation and examples
-- 🔧 **Multiple Projects** - Active open source contributor -->
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+</p>
 
-**GitHub Stats**
-- **Total Contributions:** 1000+
-- **Repositories:** 25+
-- **Followers:** Growing
-- **Following:** Tech Leaders & Mentors
+* Java
+* Spring Boot
+* Spring Data JPA
+* REST APIs
+* Node.js
+* Express.js
 
-## 🎯 Currently Working On
-- 🔨 Building a full-stack SaaS application
-- 📖 Writing technical blog posts
-- 🎓 Learning advanced system design concepts
-- 🤝 Contributing to open source projects
-- 💬 Helping community members with code reviews
+## 🗄️ Databases
 
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-## 🤝 Connect & Collaborate
-<div align="center">
-  <a href="https://www.linkedin.com/in/aditya-vaish-482a11281/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Aditya_Vaish_" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-  <a href="https://www.instagram.com/aditya_k.__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+* MySQL
+* MongoDB
+* SQL
+* Database Design
+* JPA / JDBC
 
-## 💭 Random Dev Quote
-<div align="center">
-  
-🌟 **Thanks for stopping by!**
+## 🔧 Tools & Technologies
 
-*"Code is poetry written for computers, but it should be beautiful for humans too."*
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven" />
+</p>
 
-<br>
+* Git & GitHub
+* VS Code
+* Postman
+* Maven
+* REST APIs
 
-<div align="center">
-  Made with ❤️ by [Eklavya0604](https://github.com/Eklavya0604)
-  <br>
+## ☁️ Exploring & Learning
 
-</div>
+* System Design
+* Cloud Architecture
+* Software Security
+* Machine Learning
+* Scalable Backend Systems
+
+---
+
+# 🚀 Featured Areas of Work
+
+### 🌐 Full-Stack Development
+
+Building web applications by combining modern frontend technologies with backend APIs and databases.
+
+### ⚙️ Backend Development
+
+Working with **Java, Spring Boot, JPA, JDBC, REST APIs, and databases** to build structured backend applications.
+
+### 🔐 Software Security
+
+Exploring application security and tools that can help developers identify potential security issues in their code.
+
+### 🧠 Problem Solving
+
+Practicing data structures, algorithms, and logical problem-solving to improve programming fundamentals.
+
+---
+
+# 🎯 Currently Working On
+
+* 🔨 Building and improving full-stack applications
+* 🔐 Exploring an AI-powered security analysis project
+* ⚙️ Improving backend development skills with Java and Spring Boot
+* 🧠 Learning advanced system design concepts
+* ☁️ Exploring cloud technologies and scalable architectures
+
+---
+
+# 📌 What I'm Interested In
+
+```text
+Backend Engineering
+        ↓
+System Design
+        ↓
+Scalable Applications
+        ↓
+Cloud Technologies
+        ↓
+Software Security & AI
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aditya-vaish-482a11281/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://x.com/Aditya_Vaish_" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+
+<a href="https://www.instagram.com/aditya_k.__/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, building, and improving.</i> 🚀
+</p>
