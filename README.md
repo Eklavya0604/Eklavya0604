@@ -167,18 +167,16 @@ I actively practice **Data Structures and Algorithms** and focus on improving my
 <i>Learning patterns, solving problems, and improving one challenge at a time.</i> 🚀
 
 ---
+# Currently Working On
 
-# 🎯 Currently Working On
-
-- 🔨 Building and improving full-stack applications
-- 🔐 Developing an AI-powered security analysis project
-- 🤖 Exploring RAG, LangGraph, and AI agent workflows
-- ⚙️ Improving backend development skills with Java and Spring Boot
-- 🧠 Learning advanced system design concepts
-- ☁️ Exploring cloud technologies and scalable architectures
-- 🧩 Practicing Data Structures and Algorithms
-
----
+```text
+01  Building scalable full-stack applications
+02  Developing an AI-powered security analysis system
+03  Exploring RAG pipelines, LangGraph, and AI agent workflows
+04  Strengthening backend engineering with Java and Spring Boot
+05  Learning system design and distributed architecture
+06  Exploring cloud technologies and scalable systems
+07  Practicing Data Structures and Algorithms
 
 # 📌 What I'm Interested In
 
