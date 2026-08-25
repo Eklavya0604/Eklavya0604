@@ -48,64 +48,146 @@ const developer = {
 
 ## 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="55" /><br />
+<b>Java</b>
+</td>
 
-* **Java** — Backend development and object-oriented programming
-* **JavaScript** — Web application development
-* **TypeScript** — Building scalable and type-safe applications
-* **Python** — Scripting, automation, and problem solving
-* **C++** — Data structures and algorithms
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="55" /><br />
+<b>JavaScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="55" /><br />
+<b>TypeScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="55" /><br />
+<b>Python</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="55" /><br />
+<b>C++</b>
+</td>
+</tr>
+</table>
 
 ## 🎨 Frontend Development
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="55" /><br />
+<b>HTML5</b>
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="55" /><br />
+<b>CSS3</b>
+</td>
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="55" /><br />
+<b>JavaScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ts" width="55" /><br />
+<b>TypeScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="55" /><br />
+<b>React</b>
+</td>
+</tr>
+</table>
 
 ## ⚙️ Backend Development
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="55" /><br />
+<b>Java</b>
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=spring" width="55" /><br />
+<b>Spring Boot</b>
+</td>
 
-* Java
-* Spring Boot
-* Spring Data JPA
-* REST APIs
-* Node.js
-* Express.js
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55" /><br />
+<b>Node.js</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="55" /><br />
+<b>Express.js</b>
+</td>
+</tr>
+</table>
 
 ## 🗄️ Databases
+<table align="center">
+<tr>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" /><br />
+<b>MySQL</b>
+</td>
 
-* MySQL
-* MongoDB
-* SQL
-* Database Design
-* JPA / JDBC
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="55" /><br />
+<b>PostgreSQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br />
+<b>MongoDB</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis" width="55" /><br />
+<b>Redis</b>
+</td>
+
+</tr>
+</table>
 
 ## 🔧 Tools & Technologies
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55" /><br />
+<b>Git</b>
+</td>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,maven" />
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55" /><br />
+<b>GitHub</b>
+</td>
 
-* Git & GitHub
-* VS Code
-* Postman
-* Maven
-* REST APIs
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" /><br />
+<b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="55" /><br />
+<b>Postman</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=maven" width="55" /><br />
+<b>Maven</b>
+</td>
+</tr>
+</table>
 
 ## ☁️ Exploring & Learning
 
