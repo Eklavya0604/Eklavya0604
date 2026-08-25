@@ -1,4 +1,3 @@
-
 <div align="left">
 
 <picture>
@@ -46,7 +45,7 @@ const developer = {
     "AI Applications"
   ]
 };
-````
+```
 
 ---
 
@@ -54,220 +53,76 @@ const developer = {
 
 ## 💻 Programming Languages
 
-<div align="left">
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=java" width="40" /><br />
-<b>Java</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=js" width="40" /><br />
-<b>JavaScript</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=ts" width="40" /><br />
-<b>TypeScript</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=python" width="40" /><br />
-<b>Python</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=cpp" width="40" /><br />
-<b>C++</b>
-</span>
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
 ## 🎨 Frontend Development
 
-<div align="left">
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=html" width="40" /><br />
-<b>HTML5</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=css" width="40" /><br />
-<b>CSS3</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=js" width="40" /><br />
-<b>JavaScript</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=ts" width="40" /><br />
-<b>TypeScript</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=react" width="40" /><br />
-<b>React</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br />
-<b>Next.js</b>
-</span>
-
-<br /><br />
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br />
-<b>Tailwind CSS</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=threejs" width="40" /><br />
-<b>Three.js</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://cdn.simpleicons.org/webgl" width="40" /><br />
-<b>WebGL</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://cdn.simpleicons.org/greensock" width="40" /><br />
-<b>GSAP</b>
-</span>
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+</p>
 
 ## ⚙️ Backend Development
 
-<div align="left">
-
-<span style="display: inline-block; width: 110px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=java" width="40" /><br />
-<b>Java</b>
-</span>
-
-<span style="display: inline-block; width: 110px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=spring" width="40" /><br />
-<b>Spring Boot</b>
-</span>
-
-<span style="display: inline-block; width: 110px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br />
-<b>Node.js</b>
-</span>
-
-<span style="display: inline-block; width: 110px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=express" width="40" /><br />
-<b>Express.js</b>
-</span>
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</p>
 
 ## 🗄️ Databases & Caching
 
-<div align="left">
-
-<span style="display: inline-block; width: 110px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=mysql" width="40" /><br />
-<b>MySQL</b>
-</span>
-
-<span style="display: inline-block; width: 110px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=postgres" width="40" /><br />
-<b>PostgreSQL</b>
-</span>
-
-<span style="display: inline-block; width: 110px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br />
-<b>MongoDB</b>
-</span>
-
-<span style="display: inline-block; width: 110px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=redis" width="40" /><br />
-<b>Redis</b>
-</span>
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
 
 ## 🤖 AI & LLM Engineering
 
-<div align="left">
-
-<span style="display: inline-block; width: 110px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=python" width="40" /><br />
-<b>Python</b>
-</span>
-
-<span style="display: inline-block; width: 110px; text-align: center;">
-<img src="https://cdn.simpleicons.org/langchain" width="40" /><br />
-<b>LangChain</b>
-</span>
-
-<span style="display: inline-block; width: 110px; text-align: center;">
-<img src="https://cdn.simpleicons.org/langgraph" width="40" /><br />
-<b>LangGraph</b>
-</span>
-
-<span style="display: inline-block; width: 110px; text-align: center;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" /><br />
-<b>OpenAI API</b>
-</span>
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-8A2BE2?style=for-the-badge" alt="RAG" />
+</p>
 
 ### 🧠 Areas of Interest
 
-* 🧠 Large Language Models (LLMs)
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🔗 LangChain
-* 🕸️ LangGraph
-* 🤖 AI Agents
-* 📚 Vector Databases
-* ⚡ AI-powered Applications
+- 🧠 Large Language Models (LLMs)
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🔗 LangChain
+- 🕸️ LangGraph
+- 🤖 AI Agents
+- 📚 Vector Databases
+- ⚡ AI-powered Applications
 
 ## 🔧 Tools & Technologies
 
-<div align="left">
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=git" width="40" /><br />
-<b>Git</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=github" width="40" /><br />
-<b>GitHub</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=vscode" width="40" /><br />
-<b>VS Code</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=postman" width="40" /><br />
-<b>Postman</b>
-</span>
-
-<span style="display: inline-block; width: 100px; text-align: center;">
-<img src="https://skillicons.dev/icons?i=maven" width="40" /><br />
-<b>Maven</b>
-</span>
-
-</div>
-
-## ☁️ Exploring & Learning
-
-* System Design
-* Cloud Architecture
-* Software Security
-* AI & LLM Engineering
-* Retrieval-Augmented Generation
-* Scalable Backend Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+</p>
 
 ---
 
@@ -300,15 +155,13 @@ Exploring application security and tools that can help developers identify poten
 I actively practice **Data Structures and Algorithms** and focus on improving my problem-solving and algorithmic thinking.
 
 <p align="left">
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
+  <img src="https://img.shields.io/badge/Data%20Structures-Algorithms-007ACC?style=for-the-badge" alt="Data Structures & Algorithms" />
 
-<img src="https://img.shields.io/badge/Data%20Structures-Algorithms-blue?style=for-the-badge" alt="DSA" />
-
-<img src="https://img.shields.io/badge/Focus-Consistency-success?style=for-the-badge" alt="Consistency" />
-
+  <img src="https://img.shields.io/badge/Focus-Consistency-success?style=for-the-badge" alt="Consistency" />
 </p>
 
 <i>Learning patterns, solving problems, and improving one challenge at a time.</i> 🚀
@@ -317,13 +170,13 @@ I actively practice **Data Structures and Algorithms** and focus on improving my
 
 # 🎯 Currently Working On
 
-* 🔨 Building and improving full-stack applications
-* 🔐 Developing an AI-powered security analysis project
-* 🤖 Exploring RAG, LangGraph, and AI agent workflows
-* ⚙️ Improving backend development skills with Java and Spring Boot
-* 🧠 Learning advanced system design concepts
-* ☁️ Exploring cloud technologies and scalable architectures
-* 🧩 Practicing Data Structures and Algorithms
+- 🔨 Building and improving full-stack applications
+- 🔐 Developing an AI-powered security analysis project
+- 🤖 Exploring RAG, LangGraph, and AI agent workflows
+- ⚙️ Improving backend development skills with Java and Spring Boot
+- 🧠 Learning advanced system design concepts
+- ☁️ Exploring cloud technologies and scalable architectures
+- 🧩 Practicing Data Structures and Algorithms
 
 ---
 
@@ -357,21 +210,20 @@ Full-Stack Development
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/aditya-vaish-482a11281/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <a href="https://www.linkedin.com/in/aditya-vaish-482a11281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<a href="https://x.com/Aditya_Vaish_" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
+  <a href="https://x.com/Aditya_Vaish_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 
-<a href="https://www.instagram.com/aditya_k.__/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+  <a href="https://www.instagram.com/aditya_k.__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 </p>
 
 ---
 
 <i>Always learning, building, and improving.</i> 🚀
-
