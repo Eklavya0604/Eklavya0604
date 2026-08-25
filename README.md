@@ -207,34 +207,6 @@ Full-Stack Development
 ---
 ## 🧠 Problem Solving & LeetCode
 
-I actively practice **Data Structures and Algorithms** and focus on improving my problem-solving and algorithmic thinking.
-
-<p align="left">
-
-  <a href="https://leetcode.com/u/Eklavya_0604/">
-    <img
-      src="https://leetcard.jacoblin.cool/Eklavya_0604?theme=dark&font=JetBrains_Mono&border=0&radius=10"
-      alt="LeetCode Stats"
-    />
-  </a>
-
-</p>
-
-### 📈 Recent Activity
-
-<p align="left">
-
-  <a href="https://leetcode.com/u/Eklavya_0604/">
-    <img
-      src="https://leetcard.jacoblin.cool/Eklavya_0604?theme=dark&font=JetBrains_Mono&border=0&radius=10&ext=activity"
-      alt="LeetCode Activity"
-    />
-  </a>
-
-</p>
-
-### 🔥 Submission Heatmap
-
 <p align="left">
 
   <a href="https://leetcode.com/u/Eklavya_0604/">
