@@ -53,7 +53,7 @@ const developer = {
 
 ## 💻 Programming Languages
 
-<table align="center" border="0">
+<table align="left" border="0">
 <tr>
 
 <td align="left" style="border: none;">
@@ -86,7 +86,7 @@ const developer = {
 
 ## 🎨 Frontend Development
 
-<table align="center" border="0">
+<table align="left" border="0">
 <tr>
 
 <td align="left" style="border: none;">
@@ -148,7 +148,7 @@ const developer = {
 
 ## ⚙️ Backend Development
 
-<table align="center" border="0">
+<table align="left" border="0">
 <tr>
 
 <td align="left" style="border: none;">
@@ -176,7 +176,7 @@ const developer = {
 
 ## 🗄️ Databases & Caching
 
-<table align="center" border="0">
+<table align="left" border="0">
 <tr>
 
 <td align="left" style="border: none;">
@@ -204,7 +204,7 @@ const developer = {
 
 ## 🤖 AI & LLM Engineering
 
-<table align="center" border="0">
+<table align="left" border="0">
 <tr>
 
 <td align="left" style="border: none;">
@@ -242,7 +242,7 @@ const developer = {
 
 ## 🔧 Tools & Technologies
 
-<table align="center" border="0">
+<table align="left" border="0">
 <tr>
 
 <td align="left" style="border: none;">
