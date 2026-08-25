@@ -1,8 +1,8 @@
 <div align="left">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dark_.png" />
+  <source media="(prefers-color-scheme: light)" srcset="light.png" />
   <img alt="Aditya's GitHub profile" src="dark_mode.svg" />
 </picture>
 
