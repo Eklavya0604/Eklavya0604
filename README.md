@@ -148,23 +148,6 @@ Exploring **RAG pipelines, LLM applications, LangChain, LangGraph, AI agents, an
 
 Exploring application security and tools that can help developers identify potential security issues in their code.
 
----
-
-# 🧠 Problem Solving & LeetCode
-
-I actively practice **Data Structures and Algorithms** and focus on improving my problem-solving and algorithmic thinking.
-
-<p align="left">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-
-  <img src="https://img.shields.io/badge/Data%20Structures-Algorithms-007ACC?style=for-the-badge" alt="Data Structures & Algorithms" />
-
-  <img src="https://img.shields.io/badge/Focus-Consistency-success?style=for-the-badge" alt="Consistency" />
-</p>
-
-<i>Learning patterns, solving problems, and improving one challenge at a time.</i> 🚀
 
 ---
 # Currently Working On
@@ -177,8 +160,9 @@ I actively practice **Data Structures and Algorithms** and focus on improving my
 05  Learning system design and distributed architecture
 06  Exploring cloud technologies and scalable systems
 07  Practicing Data Structures and Algorithms
+```
 
-# 📌 What I'm Interested In
+# What I'm Interested In
 
 ```text
 Full-Stack Development
