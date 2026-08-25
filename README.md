@@ -54,216 +54,170 @@ const developer = {
 
 ## 💻 Programming Languages
 
-<p align="left">
+<div align="left">
 
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=java" width="40" /><br />
 <b>Java</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=js" width="40" /><br />
 <b>JavaScript</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=ts" width="40" /><br />
 <b>TypeScript</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=python" width="40" /><br />
 <b>Python</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=cpp" width="40" /><br />
 <b>C++</b>
-</a>
+</span>
 
-</p>
+</div>
 
 ## 🎨 Frontend Development
 
-<p align="left">
+<div align="left">
 
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=html" width="40" /><br />
 <b>HTML5</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=css" width="40" /><br />
 <b>CSS3</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=js" width="40" /><br />
 <b>JavaScript</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=ts" width="40" /><br />
 <b>TypeScript</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=react" width="40" /><br />
 <b>React</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=nextjs" width="40" /><br />
 <b>Next.js</b>
-</a>
+</span>
 
-</p>
+<br /><br />
 
-<br />
-
-<p align="left">
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=tailwind" width="40" /><br />
 <b>Tailwind CSS</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=threejs" width="40" /><br />
 <b>Three.js</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://cdn.simpleicons.org/webgl" width="40" /><br />
 <b>WebGL</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://cdn.simpleicons.org/greensock" width="40" /><br />
 <b>GSAP</b>
-</a>
+</span>
 
-</p>
+</div>
 
 ## ⚙️ Backend Development
 
-<p align="left">
+<div align="left">
 
-<a>
+<span style="display: inline-block; width: 110px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=java" width="40" /><br />
 <b>Java</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 110px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=spring" width="40" /><br />
 <b>Spring Boot</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 110px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=nodejs" width="40" /><br />
 <b>Node.js</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 110px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=express" width="40" /><br />
 <b>Express.js</b>
-</a>
+</span>
 
-</p>
+</div>
 
 ## 🗄️ Databases & Caching
 
-<p align="left">
+<div align="left">
 
-<a>
+<span style="display: inline-block; width: 110px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=mysql" width="40" /><br />
 <b>MySQL</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 110px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=postgres" width="40" /><br />
 <b>PostgreSQL</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 110px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=mongodb" width="40" /><br />
 <b>MongoDB</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 110px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=redis" width="40" /><br />
 <b>Redis</b>
-</a>
+</span>
 
-</p>
+</div>
 
 ## 🤖 AI & LLM Engineering
 
-<p align="left">
+<div align="left">
 
-<a>
+<span style="display: inline-block; width: 110px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=python" width="40" /><br />
 <b>Python</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 110px; text-align: center;">
 <img src="https://cdn.simpleicons.org/langchain" width="40" /><br />
 <b>LangChain</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 110px; text-align: center;">
 <img src="https://cdn.simpleicons.org/langgraph" width="40" /><br />
 <b>LangGraph</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 110px; text-align: center;">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="40" /><br />
 <b>OpenAI API</b>
-</a>
+</span>
 
-</p>
+</div>
 
 ### 🧠 Areas of Interest
 
@@ -277,42 +231,34 @@ const developer = {
 
 ## 🔧 Tools & Technologies
 
-<p align="left">
+<div align="left">
 
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=git" width="40" /><br />
 <b>Git</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=github" width="40" /><br />
 <b>GitHub</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=vscode" width="40" /><br />
 <b>VS Code</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=postman" width="40" /><br />
 <b>Postman</b>
-</a>
+</span>
 
-    
-
-<a>
+<span style="display: inline-block; width: 100px; text-align: center;">
 <img src="https://skillicons.dev/icons?i=maven" width="40" /><br />
 <b>Maven</b>
-</a>
+</span>
 
-</p>
+</div>
 
 ## ☁️ Exploring & Learning
 
@@ -428,3 +374,4 @@ Full-Stack Development
 ---
 
 <i>Always learning, building, and improving.</i> 🚀
+
